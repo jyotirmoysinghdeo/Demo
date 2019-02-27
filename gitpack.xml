@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Account.Account_Approval_for_All_Countries</members>
+        <members>Account.Account_Del_Approval_for_All_Countries</members>
+        <members>Account.Approval_for_All_Countries_on_Update</members>
+        <name>ApprovalProcess</name>
+    </types>
+    <types>
+        <members>Account.Description</members>
+        <members>Account.SFA_Account_Street__c</members>
+        <members>Account.Secondary_Address_text__c</members>
+        <members>Contact.Mother_Name__c</members>
+        <members>SFA_Customer_Activity_Report__c.Call_Cycle__c</members>
+        <members>SFA_Customer_Activity__c.Event_Subtypes__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Account-Argentina Account Page Layout</members>
+        <members>Account-Chile Account Page Layout</members>
+        <members>Account-SFA Argentina Person Account Layout</members>
+        <members>Account-SFA Chile Person Account Layout</members>
+        <members>Call_Cycle__c-Call Cycle Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Account.SFA_Argentina_Business_Account</members>
+        <members>Account.SFA_Argentina_Person_Account</members>
+        <members>Account.SFA_Chile_Business_Account</members>
+        <members>Account.SFA_Chile_Person_Account</members>
+        <name>Recordtype</name>
+    </types>
+    <version>39.0</version>
+</Package>
